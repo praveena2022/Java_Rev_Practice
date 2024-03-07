@@ -1,0 +1,30 @@
+1. Define two methods to print the maximum and the minimum number respectively among three numbers entered by user.
+
+2. Write a program which will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:
+Marks        Grade
+91-100         AA
+81-90          AB
+71-80          BB
+61-70          BC
+51-60          CD
+41-50          DD
+<=40          Fail
+
+
+3. Print the multiplication table of 15 using recursion.
+
+4. Using recursion, define a method to know nth term of a Fibonacci series.
+Nth term of Fibonacci series is
+F(n) = F(n-1)+(n-2)
+F(0) = 0
+F(1) = 1
+F(2) = F(1)+(0) = 1+0 = 1
+F(3) = F(2)+(1) = 1+1 = 2
+F(4) = F(3)+(2) = 2+1 = 3
+
+5. Write a program that takes as input your gross salary and your total saving and uses another function named taxCalculator() to calculate your tax. The taxCalculator() function takes as parameters the gross salary as well as the total savings amount. The tax is calculated as follows:
+(a) The savings is deducted from the gross income to calculate the taxable income. Maximum deduction of savings can be Rs. 100,000, even though the amount can be more than this.
+(b) For up to 100,000 as taxable income the tax is 0 (Slab 0); beyond 100,000 to 200,000 tax is 10% of the difference above 100,000 (Slab 1); beyond 200,000 up to 500,000 the net tax is the tax calculated from Slab 0 and Slab 1 and then 20% of the taxable income exceeding 200,000 (Slab 2); if its more than 500,000, then the tax is tax from Slab 0, Slab 1, Slab 2 and 30% of the amount exceeding 500,000.
+
+6. Define a method named 'perfect' that determines if parameter number is a perfect number. Use this function in a program that determines and prints all the perfect numbers between 1 and 1000.
+[An integer number is said to be "perfect number" if its factors, including 1(but not the number itself), sum to the number. E.g., 6 is a perfect number because 6=1+2+3].

@@ -1,0 +1,42 @@
+1. Take values of length and breadth of a rectangle from user and check if it is square or not.
+ 
+2. A school has following rules for grading system:
+a. Below 25 - F
+b. 25 to 45 - E
+c. 45 to 50 - D
+d. 50 to 60 - C
+e. 60 to 80 - B
+f. Above 80 - A
+Ask user to enter marks and print the corresponding grade.
+ 
+3. A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+Take following input from user
+Number of classes held
+Number of classes attended.
+And print
+percentage of class attended
+Is student is allowed to sit in exam or not.
+allow student to sit if he/she has medical cause. Ask user if he/she has medical cause or not ( 'Y' or 'N' ) and print accordingly.
+ 
+4. Take 10 integers from keyboard using loop and print their average value on the screen.
+ 
+5. 
+Print the following patterns using loop :
+a.
+*
+**
+***
+****
+ 
+b.
+1010101
+10101 
+  101  
+   1   
+6. Take integer inputs from user until he/she presses q ( Ask to press q to quit after every integer input ). Print average and product of all numbers.
+ 
+7. Write a program to find greatest common divisor (GCD) or highest common factor (HCF) of given two numbers
+ 
+8. A three digit number is called Armstrong number if sum of cube of its digit is equal to number itself.
+E.g.- 153 is an Armstrong number because (13)+(53)+(33) = 153.
+Write all Armstrong numbers between 100 to 500.

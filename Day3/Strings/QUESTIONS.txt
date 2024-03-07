@@ -1,0 +1,14 @@
+1. Write a program to check if the letter 'e' is present in the word 'Umbrella'.
+
+2. Write a program that takes your full name as input and displays the abbreviations of the first and middle names except the last name which is displayed as it is. For example, if your name is Robert Brett Roser, then the output should be R.B.Roser.
+
+3. Write a program to find the number of vowels, consonents, digits and white space characters in a string.
+
+4. Write a program to check if a given string is a Palindrome.
+A palindrome reads same from front and back e.g.- aba, ccaacc, mom, etc.
+
+5. Input a string which contains some palindrome substrings. Find out the position of palindrome substrings if exist and replace it by *. (For example if input string is “bob has a radar plane” then it should convert in “*** has a ***** plane”.
+
+6. Write down the names of 10 of your friends in an array and then sort those in alphabetically ascending order.(HINT : USE the compareTo methid of String)
+
+7. Write a program to replace a given substring in a sentence with another string. For example, in the sentence, ” A batman with bat” if we replace ”bat” with ”snow”, the new sentence should be printed as ”A snowman with snow”.
