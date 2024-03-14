@@ -22,7 +22,7 @@ public class HollowSquareTable {
                     for (int s = 0; s < n; s++) {
                         if(s==n-1 && c<cols) {
                             c++;
-                            s = 0;
+                            s = -1;
                         }
                         if (j == 0 || j == n - 1 || s == 0 || s == n - 1)
                             System.out.print("*");
@@ -30,7 +30,7 @@ public class HollowSquareTable {
                             System.out.print(" ");
                     }
                     if(j==n-1 && r<rows){
-                        j=0;
+                        j=-1;
                         r++;
                     }
 
